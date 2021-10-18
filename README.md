@@ -1,2 +1,2 @@
 # User-Crud-Form
-This content will consist of crud operations on users.
+This content consist of crud operations on user details.
